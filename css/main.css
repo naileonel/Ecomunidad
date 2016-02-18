@@ -1,0 +1,297 @@
+/* IMAGEN PRINCIPAL */
+
+.logo{
+     margin-top:5%;
+	 height: 100px;
+}
+
+/* MENU */
+nav ul{
+	list-style-type:none;
+	padding-top:24px;
+	margin: 0 -15px 0 0;
+	font-size:14px;
+	line-height:14px;
+	text-transform:uppercase;
+	white-space:nowrap;
+}
+nav li{
+	display: inline-block;
+	position:relative;
+	padding: 2px;
+	margin- left: 10px;
+	margin-right: 30px;
+}
+nav{
+	text-decoration: none;
+	padding: 20px; 
+	color: #eee;
+	text-shadow:2px 2px 4px #000;
+	color:#fff;
+	margin-left:230px;
+}
+a{
+	color:black;
+	text-decoration: none;
+}
+/* imagen */
+.semilla{
+	background-image:url("../img/semilla.jpg");
+	background-size:100%;
+	margin-left: 1%;
+	background-position: center; 
+	background-repeat: no-repeat;
+	padding-bottom:25%;
+}
+/* informacion de lorem */
+ .fondo2{
+ 	background-image:url("../img/fondo2.jpg");
+ 	background-size:100%;
+ 	margin-left: 1%;
+ 	margin-right: -2%;
+	background-position:center; 
+	background-repeat: no-repeat;
+	padding-bottom:7%;
+ }
+ /* logos de mision y vision */
+.flecha{
+	margin: 30px 150px;
+}
+
+.lorem{
+	text-align: center;
+	padding-top: 45px;
+    margin: 0 30px;
+}
+.mision{
+    text-align: center;
+    font-size:12px;
+    margin: 0 30px;
+}
+h3{
+	text-align: center;
+}
+/* trecera seccion */
+.metodo{
+	width:456px;
+	height:270px;
+}
+
+.fondo{
+	background-image:url("../img/fondo.jpg");
+ 	background-size:90%;
+ 	width: 460px;
+ 	height: 270px;
+}
+.lapiz{
+	margin-left:180px;
+	padding-top: 40px;
+
+}
+.resum{
+	text-align: center;
+	font-size: 10px;
+	color: #BDBDBD;
+	margin-top: 20px;
+}
+.meto{
+	text-align: center;
+	color:#BDBDBD;
+	margin-top: 20px;
+}
+/* servicios */
+.ser{
+	margin-top: 30px;
+}
+.serv{
+	text-align: center;
+	margin: 10px 60px;
+	margin-top: 30px;
+}
+/* seis logos */
+.icon{
+	margin-left: 60px;
+	padding-top: 50px;
+}
+h4{
+	text-align: center;
+	color: #0B3B0B;
+	margin-top: 10px;
+}
+.com{
+	text-align:justify;
+	font-size: 12px;
+	margin-top: 30px;
+}
+/* proyecto */
+.bg-green{
+	padding-bottom: 40px;
+}
+.foto{
+    
+	height:250px;
+	width: 350px;
+	margin-left: 80px;
+}
+h5{
+	color: #BDBDBD;
+	margin-left:80px; 
+	margin-top: 30px;
+}
+.nom{
+   color: #BDBDBD;
+   margin-top:60px;
+   text-align: center;
+}
+.dis{
+  color: #BDBDBD;
+  margin-top: 1px;
+  margin-left: 210px;
+}
+.lor{
+   color: #BDBDBD;
+   text-align: center;
+   margin-top: 4px;
+   font-size: 10px;
+   margin-left: 20px;
+}
+.fotos{
+	width: 350px;
+	height: 250px;
+	margin-left: 94px;
+}
+.eki{
+	color: #0B6121;
+	margin-left: 50px;
+	font-size: 12px;
+	margin-top: 50px;
+}
+/* equipos */
+.equipo{
+	border-radius:200px;
+	height: 200px;
+	margin-left: 160px;
+}
+.cam{
+	text-align: center;
+	color: black;
+}
+.carg{
+	margin-left: 210px;
+	color: black;
+
+}
+.sit{
+	text-align: center;
+	font-size: 12px;
+	margin-left: 30px;
+	margin-top: 10px;
+}
+.equipo2{
+	border-radius:200px;
+	height: 200px;
+	margin-left: 160px;
+	margin-top: 70px;
+}
+.face{
+	margin-top: 30px;
+	margin-left: 80px;
+	margin-bottom: 40px;
+	width: 40px;
+}
+/* blog */
+.ecoo{
+	margin-left: 70px;
+	margin-top: 70px;
+}
+.blok{
+	margin-top: 30px;
+	margin-left:110px;
+	font-size: 15px;
+}
+.blog{
+	background-image:url("../img/fondo2.jpg");
+ 	background-size:100%;
+}
+.slider{
+	width: 200px;
+	margin-left: 50px;
+	margin-top: 60px;
+}
+.titu{
+	margin-left: 45px;
+	color: #585858;
+	font-size: 12px;
+}
+h6{
+	color: #424242;
+	margin-left: 45px;
+}
+.post{
+	font-size: 10px;
+	margin-left: 45px;
+	color: #424242;
+	margin-bottom: 50px;
+}
+.eco{
+	margin-left: 40px;
+	margin-top: 120px;
+}
+/* final */
+.fin{
+	border: solid white 3px;
+	display: inline-block;
+	color: white;
+	width: 190px;
+	height: 150px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	margin-left: 80px;
+}
+.twi{
+	width: 30px;
+	margin-top: 50px;
+}
+.in{
+	background-color: #424242;
+	width: 103%;
+}
+.fi{
+	border: solid white 3px;
+	display: inline-block;
+	color: white;
+	width: 190px;
+	height: 150px;
+	margin-left: -4px;
+	margin-top: -10px;
+}
+.finn{
+	border: solid white 3px;
+	display: inline-block;
+	color: white;
+	width: 190px;
+	height: 150px;
+	margin-left: -4px;
+	margin-top: -10px;
+}
+.lab{
+	margin-top: 60px;
+	margin-left: 20px;
+}
+.to{
+	color: #FFBF00;
+	margin-left: 20px;
+}
+.sost{
+	margin-left: 200px;
+	margin-top: 60px;
+	color: #585858;
+}
+.ho{
+	margin-left: 200px;
+	color: #585858;
+}
+.num{
+	margin-left: 200px;
+	color:#6E6E6E;
+}
